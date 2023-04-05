@@ -68,6 +68,16 @@ This cost estimate is for a single prototype bio-reactor. Actual prices may vary
 
 The XPRIZE Carbon Removal competition focuses on solutions capable of removing at least 1,000 tons of CO2 per year from the atmosphere. With approximately 1,015 reactors operating simultaneously, the algae bio-reactor system can meet the minimum requirement of 1,000 tons of CO2 removal per year. Scaling up the number of reactors further will lead to even greater CO2 reduction, showcasing the potential of this project in combating climate change.
 
+## 6a. Global Impact
+
+Removing 1,000 tons of CO2 per year from the atmosphere can have a significant impact on mitigating climate change. To put it in perspective, 1,000 tons of CO2 is equivalent to the emissions from about 222 cars per year, or the amount of carbon sequestered by about 940 acres of US forests in a year. Therefore, removing 1,000 tons of CO2 annually can make a noticeable contribution towards reducing the amount of greenhouse gases in the atmosphere and preventing their negative impacts on the environment.
+
+Scaling up the number of algae bio-reactors to remove 5,000 tons per year would require approximately 5,075 reactors operating simultaneously. Removing 25,000 tons annually would require 25,375 reactors, 50,000 tons would require 50,750 reactors, and 100,000 tons would require 101,500 reactors.
+
+The process of removing CO2 with algae bio-reactors involves using algae to convert CO2 into biomass, which can then be harvested and used as a biofuel or a feedstock for other products. This process not only removes CO2 from the atmosphere but also has the potential to produce valuable products that can help to reduce our reliance on fossil fuels.
+
+By scaling up the number of algae bio-reactors, we can significantly increase the rate of CO2 removal from the atmosphere and help to reverse climate change. With a large-scale deployment of algae bio-reactors, we can reduce the concentration of CO2 in the atmosphere, slow down the rate of global warming, and mitigate the negative impacts of climate change on our environment, such as sea level rise, ocean acidification, and more severe weather patterns.
+
 ## 7. Conclusion
 
 The Algae-based CO2 Reduction Project demonstrates the potential of using algae in controlled bio-reactors to mitigate climate change by reducing CO2 emissions. The system leverages Arduino microcontrollers to monitor and manage the bio-reactors, ensuring optimal conditions for algae growth and CO2 absorption. The project's scalability, CO2 reduction potential, and cost-effectiveness make it a promising solution for global efforts to address climate change.
