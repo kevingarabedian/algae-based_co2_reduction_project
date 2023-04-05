@@ -104,7 +104,27 @@ By leveraging blockchain technology, we could create a transparent and secure sy
 
 Of course, this is just a conceptual idea at this stage. There would be many technical details that would need to be worked out, such as the design of the blockchain network and the smart contract that governs the issuance of biocoins. However, we believe that this idea has the potential to be a powerful tool for promoting sustainable practices and encouraging people to participate in the fight against climate change.
 
-## 9. Arduino Code:
+## 9. Optional Garden Concept
+
+High-level proof-of-concept (POC) overview that combines a hydroponic garden solution with the bioreactor system.
+
+The bioreactor system would use algae to convert CO2 into biomass, which can be harvested and used as a nutrient-rich fertilizer for the hydroponic garden system.
+
+The hydroponic garden system would consist of a series of containers, each with a nutrient solution and a planting medium, such as perlite, coconut coir, or rockwool. Each container would be equipped with a water pump, air stone, and LED grow light.
+
+The Arduino controller would be used to monitor and control various aspects of the hydroponic system, such as the water level, nutrient concentration, pH, temperature, and lighting schedule.
+
+The hydroponic garden system would be designed to grow lettuce, tomato, cucumber, basil, and peas, which have specific requirements for water, nutrients, pH, and lighting. The nutrient solution would be supplemented with the algae biomass produced by the bioreactor system.
+
+The bioreactor system would remove CO2 from the atmosphere and convert it into nutrient-rich algae biomass, which would be used as a fertilizer for the hydroponic garden system. This creates a closed-loop system, where the hydroponic system consumes the nutrients produced by the bioreactor system and produces fresh produce, which can be consumed or sold.
+
+The harvested produce could be used as food, such as in salads, sandwiches, or as a healthy snack.
+
+The system would require sensors to measure the CO2 levels in the atmosphere, as well as the nutrient levels and pH of the hydroponic solution.
+
+Overall, this proof-of-concept combines the bioreactor system with the hydroponic garden system to create a sustainable and efficient closed-loop system. The bioreactor system removes CO2 from the atmosphere and produces nutrient-rich biomass, which is used as fertilizer for the hydroponic garden system. The hydroponic garden system grows fresh produce, which can be consumed or sold, and also removes excess nutrients from the system. This system has the potential to reduce greenhouse gas emissions while producing fresh, healthy food.
+
+## 10. Arduino Code:
 
 [ See bioreactor.ino Above ]
 
