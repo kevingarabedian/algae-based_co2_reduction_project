@@ -78,6 +78,16 @@ The process of removing CO2 with algae bio-reactors involves using algae to conv
 
 By scaling up the number of algae bio-reactors, we can significantly increase the rate of CO2 removal from the atmosphere and help to reverse climate change. With a large-scale deployment of algae bio-reactors, we can reduce the concentration of CO2 in the atmosphere, slow down the rate of global warming, and mitigate the negative impacts of climate change on our environment, such as sea level rise, ocean acidification, and more severe weather patterns.
 
+So assuming that we could get 1% of the 140 million homes in the United States to have bioreactors and that each bioreactor removed 1,000 tons of CO2 per year, this would result in a total annual CO2 removal of:
+
+(0.01) x (140 million) x (1,000 tons) = 14 million tons of CO2 per year.
+
+If we assume a global scenario, where 1% of the estimated 2.4 billion households had bioreactors and each bioreactor removed 1,000 tons of CO2 per year, this would result in a total annual CO2 removal of:
+
+(0.01) x (2.4 billion) x (1,000 tons) = 240 million tons of CO2 per year.
+
+While these estimates are hypothetical, they demonstrate the potential impact of widespread adoption of bioreactors in residential homes on mitigating climate change by removing large amounts of CO2 from the atmosphere. However, it's important to note that bioreactors are just one solution among many for reducing greenhouse gas emissions, and a combination of different strategies will likely be needed to address the scale of the climate crisis.
+
 ## 7. Conclusion
 
 The Algae-based CO2 Reduction Project demonstrates the potential of using algae in controlled bio-reactors to mitigate climate change by reducing CO2 emissions. The system leverages Arduino microcontrollers to monitor and manage the bio-reactors, ensuring optimal conditions for algae growth and CO2 absorption. The project's scalability, CO2 reduction potential, and cost-effectiveness make it a promising solution for global efforts to address climate change.
